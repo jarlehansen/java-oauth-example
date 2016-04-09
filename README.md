@@ -11,5 +11,5 @@ OAuth also helps end users authorize third-party access to their server resource
 
 
 ## References
-[Spring Booth and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
-[OAuth 2 Developers Guide](http://projects.spring.io/spring-security-oauth/docs/oauth2.html)
+- [Spring Booth and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+- [OAuth 2 Developers Guide](http://projects.spring.io/spring-security-oauth/docs/oauth2.html)
