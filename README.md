@@ -1,7 +1,8 @@
 # OAuth 2.0 example
 
 OAuth example using github as OAuth provider.
-The application will redirect to the github login page. The user logs in and is redirected back to a landing page displaying the username of the logged in user.
+The application will redirect to the github login page.
+The user logs in and is redirected back to a landing page displaying the username of the logged in user.
 
 
 ## OAuth
