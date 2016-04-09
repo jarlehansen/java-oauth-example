@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>OAuth2 demo</h1>
+<div id="msg"></div>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+<script type="text/javascript">
+    $.get('/user', function (data) {
+        console.log(data);
+        $('#msg').append('<h2>Hello ' + data.name + '</h2>');
+    });
+</script>
+</body>
+</html>
